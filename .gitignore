@@ -29,10 +29,8 @@ nbbuild/
  .nb-gradle/
 
   ##
-images *
-.lpop 
+images /
+*.lpop 
 
  ## NodeJS
  node_modules
-
-

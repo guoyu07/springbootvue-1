@@ -32,5 +32,7 @@ nbbuild/
 images /
 *.lpop 
 
- ## NodeJS
- node_modules
+ ## NodeJS 
+frontend/node_modules/
+target/
+springboot_vue.iml
